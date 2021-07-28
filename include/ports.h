@@ -1,6 +1,6 @@
 /* Functions for working with io ports */
-#ifndef _PORTS_H
-#define _PORTS_H
+#ifndef PORTS_H
+#define PORTS_H
 
 #include <stdint.h>//to use uint8_t and etc.
 

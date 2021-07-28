@@ -1,5 +1,5 @@
-#ifndef _CPU_DETECT_H
-#define _CPU_DETECT_H
+#ifndef _CPU_DETECT_H_
+#define _CPU_DETECT_H_
 
 //#include <stdint.h>
 

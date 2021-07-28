@@ -1,5 +1,5 @@
-#ifndef _TTY_H
-#define _TTY_H
+#ifndef TTY_H
+#define TTY_H
 
 #include "vga.h"
 #include "ports.h"
